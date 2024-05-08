@@ -1,0 +1,5 @@
+What is datastructure? What are the advantages of DS in programming?
+Define Abstract data type. Show that stack as a an ADT.
+Explain basic primitive operation of Stack, queue, and circular-queue.
+Convert the following infix expression into postfix operation and evaluate where a=1 b=2 c=3 d=4 
+            (A+B-C*D+B/A)
